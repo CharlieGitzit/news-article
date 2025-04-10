@@ -1,0 +1,96 @@
+html {
+    font-size: 24px;
+  }
+  
+  .newspaper {
+    font-size: 16px;
+    font-family: Open Sans, sans-serif;
+  }
+  
+  .border {
+    border: 5px dotted grey;
+    padding: 25px;
+  }
+  
+  .name {
+    font-size: 2rem;
+    font-family: Times New Roman, serif;
+  }
+  
+  .date {
+    margin-top: -35px;
+  }
+  
+  .name, .date {
+    text-align: center;
+  }
+  
+  .author {
+    font-weight: bold;
+    margin-left: 115px;
+  }
+
+  .author:hover {
+    background-color: orangered;
+    color: black;
+  }
+  
+  .name, .author {
+    text-transform: uppercase;
+  }
+  
+  .headline {
+    margin-top: 2.75em;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .sub-headline {
+    font-weight: 100;
+    font-size: 1.5em;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  .text {
+    line-height: 2em;
+    text-indent: 20px;
+    padding: 35px 0;
+  }
+  
+  .text::first-letter {
+    font-weight: bold;
+    font-size: 2em;
+  }
+  
+  .quote {
+    text-align: center;
+    font-size: 24px;
+    padding: 16px 0;
+    margin:  0;
+    font-style: italic;
+    font-weight: bold;
+  }
+  
+  .inline:hover {
+    background-color: grey;
+  }
+  
+  .closing {
+    padding: 20px 0;
+    margin: 5px auto;
+  }
+  
+  .closing:hover {
+    background-color: orangered;
+    color: black;
+    font-size: 1.5em;
+    font-style: italic;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: row;
+  }
+  
