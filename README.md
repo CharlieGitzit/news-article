@@ -1,1 +1,3 @@
 # news-article
+
+It's been an interesting adventure working with HTML & CSS. Some knowledge stays, some is fleeting daily, some I require constant refreshers for --take this use of flexbox for example. I achieved the desired outcome after playing around for a bit, considering the instructions on FreeCodeCamp were to out our own personal flavor to the projects. Gave it a shot, and I'm not disappointed. 
